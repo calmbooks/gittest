@@ -1,0 +1,11 @@
+.DS_Store
+Library
+Temp
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
+*.app
+win
+node_modules
